@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:sean="http://sean.com">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <sean:addResponse>
+         <sean:addReturn>beta</sean:addReturn>
+      </sean:addResponse>
+   </soapenv:Body>
+</soapenv:Envelope>

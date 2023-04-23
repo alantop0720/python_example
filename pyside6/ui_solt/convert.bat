@@ -1,0 +1,1 @@
+pyside6-uic cci.ui > ui_login.py
